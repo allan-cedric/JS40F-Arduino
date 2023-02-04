@@ -5,14 +5,13 @@
 #ifndef __JS40F_ARDUINO_H__
 #define __JS40F_ARDUINO_H__
 
-// --- Libraries ---
 #include <Arduino.h>
 
 // --- JS40F Class ---
 class JS40F
 {
 private:
-    uint8_t _pin;   // Sensor pin
+    uint8_t _pin; // Sensor pin
 
 public:
     /*!

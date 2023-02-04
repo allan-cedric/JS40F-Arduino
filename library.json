@@ -1,0 +1,20 @@
+{
+    "name": "JS40F-Arduino",
+    "version": "1.0.0",
+    "description": "JS40F - JSUMO Distance Sensor (Digital input)",
+    "keywords": "sensor, digital sensor, jsumo, js40f",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/allan-cedric/JS40F-Arduino.git"
+    },
+    "authors":
+    {
+        "name": "Allan Cedric",
+        "email": "allan.py3000@gmail.com"
+    },
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "atmelavr",
+    "headers": "JS40F-Arduino.h"
+}
